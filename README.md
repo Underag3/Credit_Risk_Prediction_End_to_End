@@ -246,6 +246,3 @@ Mohammad Tyas Subianto
 Data Scientist Project Based Intern – ID/X Partners X Rakamin Academy
 
 ---
-
-## 📄 License
-This project is for educational and portfolio purposes.
